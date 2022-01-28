@@ -1,0 +1,15 @@
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\bin\Debug\netcoreapp3.1\HikeAndBike.Service.deps.json
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\bin\Debug\netcoreapp3.1\HikeAndBike.Service.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\bin\Debug\netcoreapp3.1\HikeAndBike.Service.pdb
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\obj\Debug\netcoreapp3.1\HikeAndBike.Service.csproj.AssemblyReference.cache
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\obj\Debug\netcoreapp3.1\HikeAndBike.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\obj\Debug\netcoreapp3.1\HikeAndBike.Service.AssemblyInfoInputs.cache
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\obj\Debug\netcoreapp3.1\HikeAndBike.Service.AssemblyInfo.cs
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\obj\Debug\netcoreapp3.1\HikeAndBike.Service.csproj.CoreCompileInputs.cache
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\obj\Debug\netcoreapp3.1\HikeAndBike.Service.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\obj\Debug\netcoreapp3.1\HikeAndBike.Service.pdb
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\bin\Debug\netcoreapp3.1\HikeAndBike.Domain.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\bin\Debug\netcoreapp3.1\HikeAndBike.Repository.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\bin\Debug\netcoreapp3.1\HikeAndBike.Domain.pdb
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\bin\Debug\netcoreapp3.1\HikeAndBike.Repository.pdb
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Service\obj\Debug\netcoreapp3.1\HikeAndBike.Service.csproj.CopyComplete
