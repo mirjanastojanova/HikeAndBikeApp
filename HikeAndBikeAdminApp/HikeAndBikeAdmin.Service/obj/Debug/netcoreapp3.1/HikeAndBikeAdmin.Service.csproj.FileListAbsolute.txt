@@ -1,0 +1,15 @@
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.deps.json
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.pdb
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Domain.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Domain.pdb
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.pdb
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.csproj.AssemblyReference.cache
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.AssemblyInfoInputs.cache
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.AssemblyInfo.cs
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.csproj.CoreCompileInputs.cache
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.csproj.CopyComplete
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Service\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Service.pdb

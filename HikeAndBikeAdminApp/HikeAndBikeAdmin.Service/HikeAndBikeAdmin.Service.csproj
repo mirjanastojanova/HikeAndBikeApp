@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HikeAndBikeAdmin.Domain\HikeAndBikeAdmin.Domain.csproj" />
+    <ProjectReference Include="..\HikeAndBikeAdmin.Repository\HikeAndBikeAdmin.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

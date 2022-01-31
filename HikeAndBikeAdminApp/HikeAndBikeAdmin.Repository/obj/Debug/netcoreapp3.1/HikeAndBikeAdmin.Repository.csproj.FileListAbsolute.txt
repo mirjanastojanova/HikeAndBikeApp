@@ -1,0 +1,16 @@
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.deps.json
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.runtimeconfig.json
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.runtimeconfig.dev.json
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.pdb
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.csproj.AssemblyReference.cache
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.AssemblyInfoInputs.cache
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.AssemblyInfo.cs
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.pdb
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.genruntimeconfig.cache
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Domain.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\bin\Debug\netcoreapp3.1\HikeAndBikeAdmin.Domain.pdb
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeAdminApp\HikeAndBikeAdmin.Repository\obj\Debug\netcoreapp3.1\HikeAndBikeAdmin.Repository.csproj.CopyComplete

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-HikeAndBikeAdminApp-ECB4CC4C-824A-4C54-A19A-E3CB7B1F7611</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.95.4" />
+    <PackageReference Include="GemBox.Document" Version="33.0.1390" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.22" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.22">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HikeAndBikeAdmin.Domain\HikeAndBikeAdmin.Domain.csproj" />
+    <ProjectReference Include="..\HikeAndBikeAdmin.Repository\HikeAndBikeAdmin.Repository.csproj" />
+    <ProjectReference Include="..\HikeAndBikeAdmin.Service\HikeAndBikeAdmin.Service.csproj" />
+  </ItemGroup>
+
+</Project>
