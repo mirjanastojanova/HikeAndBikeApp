@@ -23,8 +23,16 @@ namespace HikeAndBike.Web.Controllers
         // GET: Trails
         public IActionResult Index()
         {
-            var allTrails = this._trailService.GetAllTrails();
-            return View(allTrails);
+            string userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            if (userId != null)
+            {
+                var allTrails = this._trailService.GetAllTrails();
+                return View(allTrails);
+            }
+            else
+            {
+                return RedirectToAction("Login", "Account");
+            }
         }
 
         public IActionResult AddTrailToShoppingCart(Guid? id)

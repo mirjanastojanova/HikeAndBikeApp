@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PK8rFHUriX08ELzhhiUUuDZdlCHDb02L2Vc/WwGrrk2Xz4yzqvTyyWLvJ3CzA0QqMYgg4z3R10T0FeSYkJo/nw==",
+  "dgSpecHash": "FEONqiFQ6bGmDxhQ/PzCA0hEikyZSOuFYYoIO0K14F+f3P2UxekXlGYNMKKUzKI2IoDbjhoUZx0mjhlbhz/WWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mirja\\source\\repos\\HikeAndBike\\HikeAndBikeApplication\\HikeAndBike.Web\\HikeAndBike.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mirja\\.nuget\\packages\\mailkit\\3.1.0\\mailkit.3.1.0.nupkg.sha512",
+    "C:\\Users\\mirja\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\mirja\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\mirja\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\mirja\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
@@ -198,8 +199,7 @@
     "C:\\Users\\mirja\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\mirja\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\mirja\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\mirja\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\mirja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+    "C:\\Users\\mirja\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

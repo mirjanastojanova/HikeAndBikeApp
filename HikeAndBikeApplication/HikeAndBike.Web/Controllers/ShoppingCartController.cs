@@ -2,6 +2,7 @@
 using HikeAndBike.Domain.DTO;
 using HikeAndBike.Domain.Identity;
 using HikeAndBike.Service.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -28,7 +29,16 @@ namespace HikeAndBike.Web.Controllers
         {
             string userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
 
-            return View(this._shoppingCartService.getShoppingCartInfo(userId));
+            if (userId != null)
+            {
+                return View(this._shoppingCartService.getShoppingCartInfo(userId));
+
+            }
+
+            else
+            {
+                return RedirectToAction("Login", "Account");
+            }
         }
 
 
@@ -40,14 +50,6 @@ namespace HikeAndBike.Web.Controllers
             this._shoppingCartService.deleteProductFromShoppingCart(userId, id);
 
             return RedirectToAction("Index", "ShoppingCart");
-        }
-
-        public void del(Guid id)
-        {
-            string userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-
-            this._shoppingCartService.deleteProductFromShoppingCart(userId, id);
-
         }
 
         private Boolean Order()

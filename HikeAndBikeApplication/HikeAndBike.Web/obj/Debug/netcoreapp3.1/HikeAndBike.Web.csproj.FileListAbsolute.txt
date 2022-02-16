@@ -162,10 +162,7 @@ C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\b
 C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Create.cshtml.g.cs
-C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Delete.cshtml.g.cs
 C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Details.cshtml.g.cs
-C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Edit.cshtml.g.cs
 C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Index.cshtml.g.cs
 C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
@@ -184,3 +181,5 @@ C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\b
 C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\bin\Debug\netcoreapp3.1\MimeKit.dll
 C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
 C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\mirja\source\repos\HikeAndBike\HikeAndBikeApplication\HikeAndBike.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\HikeAndBike.Web.styles.css

@@ -14,9 +14,11 @@ namespace HikeAndBike.Web.Controllers.Api
     public class AdminController : ControllerBase
     {
         private readonly IOrderService _orderService;
+        private readonly ITrailService _trailService;
 
-        public AdminController(IOrderService orderService)
+        public AdminController(ITrailService trailService, IOrderService orderService)
         {
+            _trailService = trailService;
             _orderService = orderService;
         }
 
